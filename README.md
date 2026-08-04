@@ -47,7 +47,7 @@ The test datasets used in the paper have been stored in ``'./data/MSRS/ir' and '
 
 ### Illustration of our MMA-UNet model.
 
-<!-- <img src="image//Workflow.png" width="90%" align=center /> -->
+ <img src="image/总框架图.jpg" width="90%" align=center /> 
 
 ### Qualitative fusion results.
 
