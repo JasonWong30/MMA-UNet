@@ -50,6 +50,6 @@ The test datasets used in the paper have been stored in ``'./data/MSRS/ir' and '
  <img src="image/总框架图.jpg" width="90%" align=center /> 
 
 ### Qualitative fusion results.
-
-
+ <img src="image/主观图.jpg" width="90%" align=center /> 
 ### Quantitative fusion results.
+ <img src="image/客观图.jpg" width="90%" align=center /> 
